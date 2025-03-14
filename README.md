@@ -129,15 +129,18 @@ useQuery({
 
 # Cuestionario Teórico
 
-A. Verdadero / Falso
-✅ Verdadero
-❌ Falso (useEffect se ejecuta después del renderizado)
-❌ Falso (TypeScript ayuda, pero no elimina todos los errores en tiempo de ejecución)
-✅ Verdadero
-❌ Falso (ShadCN es para uso general, no solo dashboards empresariales)
-B. Opción múltiple
-6. B. Renderizar componentes en el servidor, reduciendo el JS que se envía al cliente.
-7. B. Configurar revalidate al usar getStaticProps()
-8. B. Permite crear interfaces y tipos para ayudar a detectar errores de forma anticipada
-9. B. Cacheo y revalidación automática de datos, reduciendo llamadas innecesarias
-10. A. Es una colección de componentes accesibles y personalizables para React
+## A. Verdadero / Falso
+
+1. ✅ **Verdadero**
+2. ❌ **Falso** (useEffect se ejecuta después del renderizado)
+3. ❌ **Falso** (TypeScript ayuda, pero no elimina todos los errores en tiempo de ejecución)
+4. ✅ **Verdadero**
+5. ❌ **Falso** (ShadCN es para uso general, no solo dashboards empresariales)
+
+## B. Opción múltiple
+
+6. **B.** Renderizar componentes en el servidor, reduciendo el JS que se envía al cliente.
+7. **B.** Configurar revalidate al usar getStaticProps()
+8. **B.** Permite crear interfaces y tipos para ayudar a detectar errores de forma anticipada
+9. **B.** Cacheo y revalidación automática de datos, reduciendo llamadas innecesarias
+10. **A.** Es una colección de componentes accesibles y personalizables para React
