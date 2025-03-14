@@ -1,7 +1,6 @@
 'use client'
 
-import { useMemo, useState } from "react"
-import { filterUsersBySearch } from "@/lib/filtersUser"
+import { useState } from "react"
 import { DataTable } from "@/components/DataTable"
 import { columns } from "../components/columns"
 import SearchInput from "@/components/SearchInput"
